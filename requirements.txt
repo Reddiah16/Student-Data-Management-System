@@ -1,0 +1,5 @@
+# Student Data Management System
+# This application relies entirely on the Python Standard Library (json, os, pathlib, typing, sys, unittest).
+# No external dependencies or pip packages are required.
+# Compatible with Python 3.8+
+

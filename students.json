@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Reddiah",
+        "age": 23,
+        "skills": [
+            "Python",
+            "SQL",
+            "AI"
+        ],
+        "cgpa": 8.26
+    }
+]
